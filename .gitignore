@@ -1,0 +1,9 @@
+/PServer/PersServer/*
+/PServer/PersServerUtils/*
+!src/
+!public/
+!libraries/
+!DefaultSystemFiles/
+!LICENSE.txt
+!*.java
+/PServer/PhpProject1/nbproject/private/
